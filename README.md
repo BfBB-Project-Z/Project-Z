@@ -1,1 +1,2 @@
-Community mod for Spongebob Sqaurepants: Battle for Bikini Bottom.
+Community mod for Spongebob Sqaurepants: Battle for Bikini Bottom - Rehydrated.
+

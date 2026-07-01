@@ -1,0 +1,2 @@
+UE_ROOT=D:\Programs\UnrealEngine\UE_4.23
+GAME_ROOT=D:\Games\Steam\steamapps\common\SpongeBob SquarePants Battle for Bikini Bottom - Rehydrated\Pineapple\Content\Paks\LogicMods
